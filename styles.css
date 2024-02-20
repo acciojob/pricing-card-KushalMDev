@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+.card {
+	background-color: rgb(218, 213, 213);
+	width: 500px;
+	height: 600px;
+	margin: auto;
+	padding: 20px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	text-align: center;
+}
+img{
+	align-items: center;
+	width: 80%;
+}
+#btn{
+	padding: 20px;
+	background-color: rgb(228, 123, 123);
+	color: white;
+	border-radius: 10px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: medium;
+}
